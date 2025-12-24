@@ -54,3 +54,12 @@ This project focuses on identifying Arabic dialects from text using Natural Lang
 1. Clone the repository:  
    ```bash
    git clone https://github.com/shaimaaalmously054-beep/Arabic-Dialect-Identification.git
+   
+2. Install the required packages:
+pip install -r requirements.txt
+
+3. Open the Jupyter notebooks for each task and run the cells sequentially.
+
+Results & Evaluation:
+Each task notebook includes EDA, preprocessing, model training, and evaluation metrics.
+Accuracy, F1-score, and confusion matrices are used to evaluate model performance.
